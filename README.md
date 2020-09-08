@@ -13,4 +13,4 @@ To use this demo loader:
 5. Hit upload (this erases your current graph and installs a new one)
 6. Explore your graph
 
-Check out this [video expliaing](https://vimeo.com/444423966) how it works in more detail.
+Check out [this video](https://vimeo.com/444423966) explaining how it works in more detail.
